@@ -1,2 +1,3 @@
-# collab-activit
-Helpful Learning Resources
+# collab-activity
+
+"Git Best Practices"
