@@ -1,3 +1,1 @@
-# collab-activity
-
-"Best coed Practoces
+# collab-activit
